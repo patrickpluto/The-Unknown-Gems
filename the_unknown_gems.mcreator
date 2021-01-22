@@ -1,0 +1,27 @@
+{
+  "id_map": {},
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "workspaceSettings": {
+    "modid": "the_unknown_gems",
+    "modName": "The Unknown Gems",
+    "version": "1.0.0",
+    "author": "OMEN 870-296nz, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.4",
+    "modElementsPackage": "net.mcreator.theunknowngems",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100103117
+}
