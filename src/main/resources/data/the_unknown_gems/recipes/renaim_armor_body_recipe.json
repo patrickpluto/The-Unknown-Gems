@@ -1,0 +1,39 @@
+{
+  "group": "the_unknown_gems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_unknown_gems:renaim"
+    },
+    "2": {
+      "item": "the_unknown_gems:renaim"
+    },
+    "3": {
+      "item": "the_unknown_gems:renaim"
+    },
+    "4": {
+      "item": "the_unknown_gems:renaim"
+    },
+    "5": {
+      "item": "the_unknown_gems:renaim"
+    },
+    "6": {
+      "item": "the_unknown_gems:renaim"
+    },
+    "7": {
+      "item": "the_unknown_gems:renaim"
+    },
+    "8": {
+      "item": "the_unknown_gems:renaim"
+    }
+  },
+  "result": {
+    "item": "the_unknown_gems:renaim_armor_chestplate",
+    "count": 1
+  }
+}

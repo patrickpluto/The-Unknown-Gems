@@ -1,0 +1,29 @@
+{
+  "group": "the_unknown_gems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "the_unknown_gems:ealfen"
+    },
+    "1": {
+      "item": "the_unknown_gems:ealfen"
+    },
+    "2": {
+      "item": "the_unknown_gems:ealfen"
+    },
+    "3": {
+      "item": "the_unknown_gems:ealfen"
+    },
+    "5": {
+      "item": "the_unknown_gems:ealfen"
+    }
+  },
+  "result": {
+    "item": "the_unknown_gems:ealfen_armor_helmet",
+    "count": 1
+  }
+}

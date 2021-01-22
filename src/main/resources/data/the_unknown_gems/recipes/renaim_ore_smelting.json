@@ -1,0 +1,12 @@
+{
+  "group": "the_unknown_gems",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "the_unknown_gems:renaim_ore"
+  },
+  "result": {
+    "item": "the_unknown_gems:renaim"
+  }
+}

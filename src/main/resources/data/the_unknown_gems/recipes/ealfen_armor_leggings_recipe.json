@@ -1,0 +1,36 @@
+{
+  "group": "the_unknown_gems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "the_unknown_gems:ealfen"
+    },
+    "1": {
+      "item": "the_unknown_gems:ealfen"
+    },
+    "2": {
+      "item": "the_unknown_gems:ealfen"
+    },
+    "3": {
+      "item": "the_unknown_gems:ealfen"
+    },
+    "5": {
+      "item": "the_unknown_gems:ealfen"
+    },
+    "6": {
+      "item": "the_unknown_gems:ealfen"
+    },
+    "8": {
+      "item": "the_unknown_gems:ealfen"
+    }
+  },
+  "result": {
+    "item": "the_unknown_gems:ealfen_armor_leggings",
+    "count": 1
+  }
+}

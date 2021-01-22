@@ -1,0 +1,30 @@
+{
+  "group": "the_unknown_gems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "the_unknown_gems:ayenem"
+    },
+    "1": {
+      "item": "the_unknown_gems:ayenem"
+    },
+    "2": {
+      "item": "the_unknown_gems:ayenem"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "the_unknown_gems:ayenem_pickaxe",
+    "count": 1
+  }
+}

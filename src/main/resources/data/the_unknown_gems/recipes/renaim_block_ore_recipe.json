@@ -1,0 +1,13 @@
+{
+  "group": "the_unknown_gems",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_unknown_gems:renaim_block"
+    }
+  ],
+  "result": {
+    "item": "the_unknown_gems:renaim",
+    "count": 9
+  }
+}

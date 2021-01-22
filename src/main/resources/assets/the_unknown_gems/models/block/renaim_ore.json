@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "the_unknown_gems:blocks/renaim_ore",
+    "particle": "the_unknown_gems:blocks/renaim_ore"
+  }
+}

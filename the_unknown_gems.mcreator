@@ -195,24 +195,645 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dayentium_armor_boots_recipe"
+    },
+    {
+      "name": "Ayenem",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ayenem"
+    },
+    {
+      "name": "AyenemOre",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ayenem_ore"
+    },
+    {
+      "name": "AyenemBlock",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ayenem_block"
+    },
+    {
+      "name": "AyenemOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ayenem_ore_block_recipe"
+    },
+    {
+      "name": "AyenemBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ayenem_block_ore_recipe"
+    },
+    {
+      "name": "AyenemOreSmelting",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ayenem_ore_smelting"
+    },
+    {
+      "name": "AyenemPickaxe",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ayenem_pickaxe"
+    },
+    {
+      "name": "AyenemAxe",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ayenem_axe"
+    },
+    {
+      "name": "AyenemSword",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ayenem_sword"
+    },
+    {
+      "name": "AyenemShovel",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ayenem_shovel"
+    },
+    {
+      "name": "AyenemHoe",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ayenem_hoe"
+    },
+    {
+      "name": "AyenemPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ayenem_pickaxe_recipe"
+    },
+    {
+      "name": "AyenemAxeRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ayenem_axe_recipe"
+    },
+    {
+      "name": "AyenemSwordRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ayenem_sword_recipe"
+    },
+    {
+      "name": "AyenemShovelRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ayenem_shovel_recipe"
+    },
+    {
+      "name": "AyenemHoeRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ayenem_hoe_recipe"
+    },
+    {
+      "name": "AyenemArmor",
+      "type": "armor",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ayenem_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "AyenemArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ayenem_armor_helmet_recipe"
+    },
+    {
+      "name": "AyenemArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ayenem_armor_body_recipe"
+    },
+    {
+      "name": "AyenemArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ayenem_armor_leggings_recipe"
+    },
+    {
+      "name": "AyenemArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ayenem_armor_boots_recipe"
+    },
+    {
+      "name": "Renaim",
+      "type": "item",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renaim"
+    },
+    {
+      "name": "RenaimOre",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renaim_ore"
+    },
+    {
+      "name": "RenaimBlock",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renaim_block"
+    },
+    {
+      "name": "RenaimOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renaim_ore_block_recipe"
+    },
+    {
+      "name": "RenaimBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renaim_block_ore_recipe"
+    },
+    {
+      "name": "RenaimOreSmelting",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renaim_ore_smelting"
+    },
+    {
+      "name": "RenaimPickaxe",
+      "type": "tool",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renaim_pickaxe"
+    },
+    {
+      "name": "RenaimAxe",
+      "type": "tool",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renaim_axe"
+    },
+    {
+      "name": "RenaimSword",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renaim_sword"
+    },
+    {
+      "name": "RenaimShovel",
+      "type": "tool",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renaim_shovel"
+    },
+    {
+      "name": "RenaimHoe",
+      "type": "tool",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renaim_hoe"
+    },
+    {
+      "name": "RenaimPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renaim_pickaxe_recipe"
+    },
+    {
+      "name": "RenaimAxeRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renaim_axe_recipe"
+    },
+    {
+      "name": "RenaimSwordRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renaim_sword_recipe"
+    },
+    {
+      "name": "RenaimShovelRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renaim_shovel_recipe"
+    },
+    {
+      "name": "RenaimHoeRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renaim_hoe_recipe"
+    },
+    {
+      "name": "RenaimArmor",
+      "type": "armor",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renaim_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "RenaimArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renaim_armor_helmet_recipe"
+    },
+    {
+      "name": "RenaimArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renaim_armor_body_recipe"
+    },
+    {
+      "name": "RenaimArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renaim_armor_leggings_recipe"
+    },
+    {
+      "name": "RenaimArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renaim_armor_boots_recipe"
+    },
+    {
+      "name": "Ealfen",
+      "type": "item",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ealfen"
+    },
+    {
+      "name": "EalfenOre",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ealfen_ore"
+    },
+    {
+      "name": "EalfenBlock",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ealfen_block"
+    },
+    {
+      "name": "EalfenOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ealfen_ore_block_recipe"
+    },
+    {
+      "name": "EalfenBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ealfen_block_ore_recipe"
+    },
+    {
+      "name": "EalfenOreSmelting",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ealfen_ore_smelting"
+    },
+    {
+      "name": "EalfenPickaxe",
+      "type": "tool",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ealfen_pickaxe"
+    },
+    {
+      "name": "EalfenAxe",
+      "type": "tool",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ealfen_axe"
+    },
+    {
+      "name": "EalfenSword",
+      "type": "tool",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ealfen_sword"
+    },
+    {
+      "name": "EalfenShovel",
+      "type": "tool",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ealfen_shovel"
+    },
+    {
+      "name": "EalfenHoe",
+      "type": "tool",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ealfen_hoe"
+    },
+    {
+      "name": "EalfenPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ealfen_pickaxe_recipe"
+    },
+    {
+      "name": "EalfenAxeRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ealfen_axe_recipe"
+    },
+    {
+      "name": "EalfenSwordRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ealfen_sword_recipe"
+    },
+    {
+      "name": "EalfenShovelRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ealfen_shovel_recipe"
+    },
+    {
+      "name": "EalfenHoeRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ealfen_hoe_recipe"
+    },
+    {
+      "name": "EalfenArmor",
+      "type": "armor",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ealfen_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EalfenArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ealfen_armor_helmet_recipe"
+    },
+    {
+      "name": "EalfenArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ealfen_armor_body_recipe"
+    },
+    {
+      "name": "EalfenArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ealfen_armor_leggings_recipe"
+    },
+    {
+      "name": "EalfenArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ealfen_armor_boots_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.the_unknown_gems.dayentium_armor_leggings": "Dayentium Leggings",
-      "item.the_unknown_gems.dayentium_hoe": "Dayentium Hoe",
-      "item.the_unknown_gems.dayentium": "Dayentium",
-      "item.the_unknown_gems.dayentium_armor_helmet": "Dayentium Helmet",
+      "item.the_unknown_gems.renaim_armor_leggings": "Renaim Leggings",
       "item.the_unknown_gems.dayentium_pickaxe": "Dayentium Pickaxe",
-      "item.the_unknown_gems.dayentium_armor_boots": "Dayentium Boots",
-      "item.the_unknown_gems.dayentium_shovel": "Dayentium Shovel",
-      "item.the_unknown_gems.dayentium_armor_chestplate": "Dayentium Chestplate",
-      "item.the_unknown_gems.dayentium_sword": "Dayentium Sword",
+      "item.the_unknown_gems.renaim_shovel": "Renaim Shovel",
       "block.the_unknown_gems.dayentium_ore": "Dayentium Ore",
       "block.the_unknown_gems.dayentium_block": "Block of Dayentium",
-      "item.the_unknown_gems.dayentium_axe": "Dayentium Axe"
+      "item.the_unknown_gems.renaim_armor_helmet": "Renaim Helmet",
+      "item.the_unknown_gems.ayenem": "Ayenem",
+      "item.the_unknown_gems.ayenem_hoe": "Ayenem Hoe",
+      "item.the_unknown_gems.ayenem_armor_helmet": "Ayenem Helmet",
+      "item.the_unknown_gems.renaim_axe": "Renaim Axe",
+      "item.the_unknown_gems.dayentium_shovel": "Dayentium Shovel",
+      "item.the_unknown_gems.ayenem_armor_leggings": "Ayenem Leggings",
+      "item.the_unknown_gems.ealfen_axe": "Ealfen Axe",
+      "block.the_unknown_gems.ealfen_ore": "Ealfen Ore",
+      "item.the_unknown_gems.renaim": "Renaim",
+      "item.the_unknown_gems.renaim_sword": "Renaim Sword",
+      "item.the_unknown_gems.ealfen": "Ealfen",
+      "block.the_unknown_gems.renaim_block": "Block of Renaim",
+      "item.the_unknown_gems.dayentium_axe": "Dayentium Axe",
+      "item.the_unknown_gems.ayenem_armor_chestplate": "Ayenem Chestplate",
+      "item.the_unknown_gems.renaim_pickaxe": "Renaim Pickaxe",
+      "item.the_unknown_gems.ealfen_armor_leggings": "Ealfen Leggings",
+      "item.the_unknown_gems.dayentium_armor_leggings": "Dayentium Leggings",
+      "item.the_unknown_gems.ayenem_shovel": "Ayenem Shovel",
+      "block.the_unknown_gems.ayenem_block": "Block of Ayenem",
+      "item.the_unknown_gems.renaim_armor_boots": "Renaim Boots",
+      "item.the_unknown_gems.ayenem_sword": "Ayenem Sword",
+      "item.the_unknown_gems.dayentium_armor_helmet": "Dayentium Helmet",
+      "item.the_unknown_gems.dayentium_armor_boots": "Dayentium Boots",
+      "item.the_unknown_gems.ealfen_armor_helmet": "Ealfen Helmet",
+      "item.the_unknown_gems.ealfen_shovel": "Ealfen Shovel",
+      "item.the_unknown_gems.dayentium_sword": "Dayentium Sword",
+      "item.the_unknown_gems.ayenem_axe": "Ayenem Axe",
+      "item.the_unknown_gems.renaim_hoe": "Renaim Hoe",
+      "block.the_unknown_gems.renaim_ore": "Renaim Ore",
+      "item.the_unknown_gems.ayenem_armor_boots": "Ayenem Boots",
+      "item.the_unknown_gems.ealfen_pickaxe": "Ealfen Pickaxe",
+      "item.the_unknown_gems.dayentium_hoe": "Dayentium Hoe",
+      "item.the_unknown_gems.dayentium": "Dayentium",
+      "block.the_unknown_gems.ayenem_ore": "Ayenem Ore",
+      "item.the_unknown_gems.dayentium_armor_chestplate": "Dayentium Chestplate",
+      "item.the_unknown_gems.renaim_armor_chestplate": "Renaim Chestplate",
+      "item.the_unknown_gems.ayenem_pickaxe": "Ayenem Pickaxe",
+      "item.the_unknown_gems.ealfen_armor_chestplate": "Ealfen Chestplate",
+      "block.the_unknown_gems.ealfen_block": "Block of Ealfen",
+      "item.the_unknown_gems.ealfen_armor_boots": "Ealfen Boots",
+      "item.the_unknown_gems.ealfen_sword": "Ealfen Sword",
+      "item.the_unknown_gems.ealfen_hoe": "Ealfen Hoe"
     }
   },
   "workspaceSettings": {
