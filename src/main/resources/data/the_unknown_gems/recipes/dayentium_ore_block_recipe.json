@@ -1,0 +1,42 @@
+{
+  "group": "the_unknown_gems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_unknown_gems:dayentium"
+    },
+    "1": {
+      "item": "the_unknown_gems:dayentium"
+    },
+    "2": {
+      "item": "the_unknown_gems:dayentium"
+    },
+    "3": {
+      "item": "the_unknown_gems:dayentium"
+    },
+    "4": {
+      "item": "the_unknown_gems:dayentium"
+    },
+    "5": {
+      "item": "the_unknown_gems:dayentium"
+    },
+    "6": {
+      "item": "the_unknown_gems:dayentium"
+    },
+    "7": {
+      "item": "the_unknown_gems:dayentium"
+    },
+    "8": {
+      "item": "the_unknown_gems:dayentium"
+    }
+  },
+  "result": {
+    "item": "the_unknown_gems:dayentium_block",
+    "count": 1
+  }
+}

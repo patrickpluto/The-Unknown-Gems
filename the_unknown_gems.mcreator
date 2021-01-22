@@ -1,10 +1,219 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Dayentium",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dayentium"
+    },
+    {
+      "name": "DayentiumOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dayentium_ore"
+    },
+    {
+      "name": "DayentiumBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dayentium_block"
+    },
+    {
+      "name": "DayentiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dayentium_ore_block_recipe"
+    },
+    {
+      "name": "DayentiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dayentium_block_ore_recipe"
+    },
+    {
+      "name": "DayentiumOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dayentium_ore_smelting"
+    },
+    {
+      "name": "DayentiumPickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dayentium_pickaxe"
+    },
+    {
+      "name": "DayentiumAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dayentium_axe"
+    },
+    {
+      "name": "DayentiumSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dayentium_sword"
+    },
+    {
+      "name": "DayentiumShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dayentium_shovel"
+    },
+    {
+      "name": "DayentiumHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dayentium_hoe"
+    },
+    {
+      "name": "DayentiumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dayentium_pickaxe_recipe"
+    },
+    {
+      "name": "DayentiumAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dayentium_axe_recipe"
+    },
+    {
+      "name": "DayentiumSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dayentium_sword_recipe"
+    },
+    {
+      "name": "DayentiumShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dayentium_shovel_recipe"
+    },
+    {
+      "name": "DayentiumHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dayentium_hoe_recipe"
+    },
+    {
+      "name": "DayentiumArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dayentium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "DayentiumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dayentium_armor_helmet_recipe"
+    },
+    {
+      "name": "DayentiumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dayentium_armor_body_recipe"
+    },
+    {
+      "name": "DayentiumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dayentium_armor_leggings_recipe"
+    },
+    {
+      "name": "DayentiumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dayentium_armor_boots_recipe"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.the_unknown_gems.dayentium_armor_leggings": "Dayentium Leggings",
+      "item.the_unknown_gems.dayentium_hoe": "Dayentium Hoe",
+      "item.the_unknown_gems.dayentium": "Dayentium",
+      "item.the_unknown_gems.dayentium_armor_helmet": "Dayentium Helmet",
+      "item.the_unknown_gems.dayentium_pickaxe": "Dayentium Pickaxe",
+      "item.the_unknown_gems.dayentium_armor_boots": "Dayentium Boots",
+      "item.the_unknown_gems.dayentium_shovel": "Dayentium Shovel",
+      "item.the_unknown_gems.dayentium_armor_chestplate": "Dayentium Chestplate",
+      "item.the_unknown_gems.dayentium_sword": "Dayentium Sword",
+      "block.the_unknown_gems.dayentium_ore": "Dayentium Ore",
+      "block.the_unknown_gems.dayentium_block": "Block of Dayentium",
+      "item.the_unknown_gems.dayentium_axe": "Dayentium Axe"
+    }
   },
   "workspaceSettings": {
     "modid": "the_unknown_gems",

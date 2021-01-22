@@ -1,1 +1,14 @@
-{}
+{
+  "item.the_unknown_gems.dayentium_armor_leggings": "Dayentium Leggings",
+  "item.the_unknown_gems.dayentium_hoe": "Dayentium Hoe",
+  "item.the_unknown_gems.dayentium": "Dayentium",
+  "item.the_unknown_gems.dayentium_armor_helmet": "Dayentium Helmet",
+  "item.the_unknown_gems.dayentium_pickaxe": "Dayentium Pickaxe",
+  "item.the_unknown_gems.dayentium_armor_boots": "Dayentium Boots",
+  "item.the_unknown_gems.dayentium_shovel": "Dayentium Shovel",
+  "item.the_unknown_gems.dayentium_armor_chestplate": "Dayentium Chestplate",
+  "item.the_unknown_gems.dayentium_sword": "Dayentium Sword",
+  "block.the_unknown_gems.dayentium_ore": "Dayentium Ore",
+  "block.the_unknown_gems.dayentium_block": "Block of Dayentium",
+  "item.the_unknown_gems.dayentium_axe": "Dayentium Axe"
+}

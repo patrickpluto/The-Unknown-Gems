@@ -1,0 +1,29 @@
+{
+  "group": "the_unknown_gems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "the_unknown_gems:dayentium"
+    },
+    "1": {
+      "item": "the_unknown_gems:dayentium"
+    },
+    "2": {
+      "item": "the_unknown_gems:dayentium"
+    },
+    "3": {
+      "item": "the_unknown_gems:dayentium"
+    },
+    "5": {
+      "item": "the_unknown_gems:dayentium"
+    }
+  },
+  "result": {
+    "item": "the_unknown_gems:dayentium_armor_helmet",
+    "count": 1
+  }
+}
